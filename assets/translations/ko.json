@@ -1,0 +1,7 @@
+{
+  "common_error_network_title_dialog": "네트워크 상태 확인 요청",
+  "common_error_network_description_dialog": "연결 상태가 불안정합니다.\\n\n데이터 또는 WI-FI 상태 확인 후\\n\n다시 시도해주세요.",
+  "common_update_required_title_dialog": "새로운 버전 업데이트",
+  "common_update_required_description_dialog": "보다 원활한 서비스 이용을 위해\\n\n최신 버전으로 업데이트해주세요. ",
+  "common_image_bs_label": "다시보지 않기"
+}

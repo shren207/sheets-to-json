@@ -1,0 +1,7 @@
+{
+  "common_error_network_title_dialog": "Network Status Check Request",
+  "common_error_network_description_dialog": "Connection status is unstable.\\n\nPlease check your data or\\n\nWi-Fi connection and try again.",
+  "common_update_required_title_dialog": "New Version Update",
+  "common_update_required_description_dialog": "For smoother service experience,\nplease update to the latest version.",
+  "common_image_bs_label": "Don't show again"
+}
